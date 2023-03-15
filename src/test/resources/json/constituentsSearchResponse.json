@@ -1,0 +1,83 @@
+{
+  "Id": 224256,
+  "AccountNumber": 357,
+  "CommunicationRestrictions": [],
+  "EmailInterestType": "All",
+  "DonorSearchInfo": {
+    "Id": 218,
+    "GenerosityScore": "Low"
+  },
+  "IsFavorite": false,
+  "IsInHousehold": false,
+  "IsHeadOfHousehold": false,
+  "Type": "Individual",
+  "Status": "Active",
+  "FirstName": "Test",
+  "LastName": "Testing",
+  "MiddleName": "",
+  "Prefix": "",
+  "Suffix": "",
+  "FullName": "Test Testing",
+  "InformalName": "Test",
+  "FormalName": "Test Testing",
+  "EnvelopeName": "Test Testing",
+  "RecognitionName": "Test Testing",
+  "JobTitle": "",
+  "Employer": "",
+  "Website": "",
+  "FacebookId": "",
+  "TwitterId": "",
+  "LinkedInId": "",
+  "Gender": "Other",
+  "Birthdate": "2000-10-10",
+  "ProfilePictureType": "None",
+  "EngagementScore": "Low",
+  "PrimaryAddress": {
+    "Id": 229377,
+    "StateAbbreviation": "NH",
+    "CountryCode": "US",
+    "AccountId": 224256,
+    "Type": "Home",
+    "Street": "43 Test Street",
+    "City": "Dover",
+    "State": "New Hampshire",
+    "PostalCode": "03820",
+    "Country": "United States",
+    "IsPrimary": true,
+    "IsBad": false
+  },
+  "AddressIds": [
+    225280,
+    229377
+  ],
+  "PrimaryEmail": {
+    "Id": 226304,
+    "IsBad": false,
+    "AccountId": 224256,
+    "Type": "Home",
+    "Value": "testing@gmail.com",
+    "IsPrimary": true
+  },
+  "EmailIds": [
+    226304
+  ],
+  "PrimaryPhone": {
+    "Id": 231425,
+    "AccountId": 224256,
+    "Type": "Home",
+    "Number": "(222) 222-2223",
+    "IsPrimary": true
+  },
+  "PhoneIds": [
+    227328,
+    230401,
+    231425
+  ],
+  "CustomValues": [],
+  "AuditTrail": {
+    "CreatedDate": "2022-07-16T22:10:43Z",
+    "CreatedName": "Clifton West",
+    "LastModifiedDate": "2022-07-17T00:39:30Z",
+    "LastModifiedName": "Kindful Integration-Clifton West"
+  }
+}
